@@ -1,5 +1,76 @@
 # Project 1
 
+**Title:** [Sales_&_Financial_Performance_Dashboard_FY2025YTD](Sales_&_Financial_Performance_Dashboard_FY2025YTD.pbix)
+
+**Tools Used:** Power BI, DAX (Data Analysis Expressions), Data Modeling (Star Schema), Data Visualization & Storytelling
+ 
+**Project Description:** This project showcases an interactive Power BI dashboard developed to analyze sales performance, profitability, and expense trends for FY2025 (Year-To-Date). The dashboard provides a clear, executive-level view of business performance by consolidating key financial metrics such as revenue, cost, profit, and margin into a single, user-friendly interface. It enables stakeholders to monitor performance, identify trends, and uncover key drivers impacting profitability.
+Users can dynamically explore the data through interactive filters, allowing both high-level overviews and detailed analysis across time, products, regions, and sales representatives. The solution leverages data modeling and DAX calculations to deliver accurate and meaningful insights.
+
+The dashboard includes the following analyses:
+
+_Overall revenue, cost, and profit performance with margin tracking_
+
+_Month-over-Month (MoM) trend analysis to identify growth patterns and fluctuations_
+
+_Revenue recovery analysis highlighting performance changes after seasonal dips_
+
+_Product-level performance analysis to identify top-selling and underperforming products_
+
+_Regional performance breakdown to compare revenue contributions across locations_
+
+_Expense analysis to identify key cost drivers and their impact on profitability_
+
+_Sales representative performance evaluation based on revenue, profit, and efficiency_
+
+_Key insights section summarizing actionable business findings_
+
+**Key findings:** 
+1. Total revenue reached £8.22M, achieving 95% of the annual target, indicating strong year-to-date performance with minimal shortfall.
+   
+2. Profit totaled £2.90M, maintaining a healthy 35.2% margin, reflecting effective cost management despite rising expenses.
+   
+3. Revenue experienced a decline in April, followed by a steady recovery, resulting in an overall +8.9% growth trend, suggesting resilience and consistent demand in later months.
+   
+4. Smartphones emerged as the primary revenue driver (£1.79M), contributing the largest share of total sales and highlighting a key product focus area.
+   
+5. The East region outperformed all other regions (£2.2M), indicating stronger market penetration and sales effectiveness in that area.
+   
+6. Office Supplies accounted for the highest proportion of expenses (21%), representing a significant cost driver with a direct impact on overall profitability.
+   
+7. Sarah M generated the highest total profit (£767K), while John D achieved the highest profit margin (36.28%), demonstrating strong sales efficiency.
+   
+8. Overall performance indicates a positive growth trajectory, with opportunities to further improve margins through cost optimization and targeted sales strategies.
+
+**Business Recommendations:**
+1. _**Optimize high-impact cost areas:**_
+Conduct a detailed review of Office Supplies expenditure, which represents the largest cost category (21%), to identify inefficiencies and implement cost-control measures that can improve overall profit margins
+
+2. _**Capitalize on top-performing products:**_
+Leverage the strong performance of Smartphones by increasing marketing investment, optimizing pricing strategies, and ensuring adequate inventory to sustain and scale revenue growth
+
+3. _**Replicate success across regions:**_
+Analyze the key drivers behind the East region’s leading performance and apply similar sales strategies, customer engagement approaches, and distribution models to underperforming regions
+
+4. _**Stabilize revenue fluctuations:**_
+Investigate the factors contributing to the April revenue decline and implement proactive measures such as demand forecasting, promotional campaigns, or seasonal planning to reduce future volatility
+
+5. _**Enhance sales force effectiveness:**_
+Use performance insights to benchmark top-performing sales representatives (e.g., Sarah M and John D) and introduce targeted training, incentives, or best-practice sharing to improve overall team productivity
+
+6. _**Improve profitability through cost-to-revenue alignment:**_
+Continuously monitor the relationship between expenses and revenue growth to ensure that cost increases remain proportionate and do not erode profit margins
+
+7. _**Strengthen data-driven decision making:**_
+Encourage the use of this dashboard for ongoing performance monitoring, enabling leadership to quickly identify trends, respond to changes, and make informed strategic decisions
+
+**Dashboard Overview:**
+![Sales_&_Financial_Performance_Dashboard_FY2025YTD](Sales_&_Financial_Performance_Dashboard_FY2025YTD.png)
+
+
+
+# Project 2
+
 **Title:** [Excel Financial Dashboard – Actual vs Budget Analysis (2024)](https://github.com/Sheyi04/Sheyi04.github.io/blob/main/Excel%20Financial%20Dashboard%20%E2%80%93%20Actual%20vs%20Budget%20Analysis%20(2024).xlsx)
 
 **Tools Used:** Microsoft Excel (PivotTable, PivotCharts, Slicers, Dynamic Array Functions (VSTACK, UNIQUE), Conditional Formatting, Data Cleaning & Transformation)
@@ -48,7 +119,9 @@ _Key insights highlighting the main drivers of financial performance_
 
 **Dashboard Overview:** ![Actual_vs_Budget_Financial_Performance_2024](Actual_vs_Budget_Financial_Performance_2024.png)
 
-# Project 2
+
+
+# Project 3
 
 **Title:** [Car Sales Performance](https://github.com/Sheyi04/Sheyi04.github.io/blob/main/Car%20Sales%20Perfomance%20(2016-2020).xlsx)
 
@@ -102,7 +175,7 @@ This dashboard serves as a vital tool for automotive stakeholders, offering clea
 
 
 
-# Project 3
+# Project 4
 
 **Title:** SQL Query Report - Employee & Salary Database
 
@@ -149,7 +222,7 @@ This project highlights foundational SQL query writing and the ability to conver
 
 
 
-# Project 4
+# Project 5
 
 **Title:** [Product Sales Performance Report](https://github.com/Sheyi04/Sheyi04.github.io/blob/main/Product%20Sales%20Performance%20Report.pbix)
 
