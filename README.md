@@ -5,7 +5,7 @@
 **Tools Used:** Power BI Desktop (Data Visualization, DAX Measures, Data Modeling – Star Schema, Interactive Dashboards, Visual Design & Layout)
  
 **Project Description:** This project showcases an interactive Power BI dashboard developed to analyze sales performance, profitability, and expense trends for FY2025 (Year-To-Date). The dashboard provides a clear, executive-level view of business performance by consolidating key financial metrics such as revenue, cost, profit, and margin into a single, user-friendly interface. It enables stakeholders to monitor performance, identify trends, and uncover key drivers impacting profitability.
-Users can dynamically explore the data through interactive filters, allowing both high-level overviews and detailed analysis across time, products, regions, and sales representatives. The solution leverages data modeling and DAX calculations to deliver accurate and meaningful insights.
+Users can dynamically explore the data through interactive filters, allowing both high-level overviews and detailed analysis across time, products, regions, and sales representatives. The solution leverages data modeling and DAX calculations to deliver accurate and meaningful insights to enable strategic decision-making.
 
 The dashboard includes the following analyses:
 
