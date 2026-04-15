@@ -1,6 +1,6 @@
 # Project 1
 
-**Title:** [Sales_&_Financial_Performance_Dashboard_FY2025YTD](Sales_&_Financial_Performance_Dashboard_FY2025YTD.pbix)
+**Title:** [Sales & Financial Performance Dashboard (FY2025 YTD)](Sales_&_Financial_Performance_Dashboard_FY2025YTD.pbix)
 
 **Tools Used:** Power BI, DAX (Data Analysis Expressions), Data Modeling (Star Schema), Data Visualization & Storytelling
  
