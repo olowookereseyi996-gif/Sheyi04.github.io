@@ -65,7 +65,7 @@ Continuously monitor the relationship between expenses and revenue growth to ens
 Encourage the use of this dashboard for ongoing performance monitoring, enabling leadership to quickly identify trends, respond to changes, and make informed strategic decisions
 
 **Dashboard Overview:**
-![Sales_&_Financial_Performance_Dashboard_FY2025YTD](Sales_&_Financial_Performance_Dashboard_FY2025YTD.png)
+![Dashboard](Sales_&_Financial_Performance_Dashboard_FY2025YTD.png)
 
 
 
